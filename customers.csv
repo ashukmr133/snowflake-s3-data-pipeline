@@ -1,0 +1,21 @@
+id,name,age,city
+1,Ashutosh,23,Delhi
+2,Rahul,NULL,Mumbai
+3,Ankit, ,Bangalore
+4,Rohit,N/A,Chennai
+5,Amit,30,"Delhi, India"
+6,Neha,27," ""Pune"""
+7,Karan,twenty,Hyderabad
+8,Sneha,,Kolkata
+9,John,28,"New York, USA"
+10,Mary,abc,London
+11,,25,Paris
+12,Chris,29,
+13,  Riya  ,26," "" Mumbai """
+14,Arjun,-5,Delhi
+15,Meena,200,Bangalore
+16,Sam,NaN,Chennai
+17,David,35,"Los Angeles, USA"
+18, , , 
+19,Alex,40,"San Francisco, USA"
+20,Ravi,31,Delhi
